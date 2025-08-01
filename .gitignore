@@ -1,0 +1,63 @@
+# =========================
+# Java / Spring Boot
+# =========================
+/target/
+*.log
+*.class
+*.jar
+*.war
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+
+# =========================
+# Maven Wrapper
+# =========================
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# Eclipse / Spring Tool Suite (STS)
+# =========================
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# =========================
+# NetBeans
+# =========================
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Build folders (safety net)
+# =========================
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# =========================
+# Optional Docs / Help
+# =========================
+HELP.md
