@@ -61,3 +61,4 @@ build/
 # Optional Docs / Help
 # =========================
 HELP.md
+.DS_Store
