@@ -1,4 +1,4 @@
-package com.smarthealth.platform.model.enums;
+package com.smarthealth.platform.model;
 
 public enum Role {
     ADMIN,
